@@ -6,12 +6,12 @@
 
 ## 游戏官网
 
-**[访问《过载余波》官方网站](https://overload-aftershock.xxxzzzfff2026.chatgpt.site)**
+**[访问《过载余波》官方网站](https://xxxzzzfff2020.github.io/overload-aftershock/)**
 
-官网包含游戏介绍、核心循环、先行影像与 TapTap 扫码入口。
+官网由本仓库 `docs/` 目录中的静态 HTML、CSS 与媒体资源构成，并通过 GitHub Pages 独立发布。页面包含游戏介绍、核心循环、先行影像与 TapTap 扫码入口。
 
 ## 项目状态
 
-本仓库目前作为《过载余波》的 GitHub 项目主页和官网入口，游戏源码暂未上传。
+本仓库目前仅发布《过载余波》官网，游戏源码暂未上传。
 
 后续确定开源计划后，将在这里补充源码、许可证、构建说明与开发文档。
