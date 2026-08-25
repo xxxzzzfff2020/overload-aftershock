@@ -1,0 +1,289 @@
+{
+ "generator": "qa/generators/gen_assets.py",
+ "license": "original, generated for this project only",
+ "asset_status": "RELEASE_ART_ACCEPTED",
+ "art_direction": "minimal geometric cyber neon",
+ "count": 40,
+ "files": [
+  {
+   "file": "Textures/r2/player_depleted.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 465,
+   "sha256": "e6cc515032c8351b5ddd1168c5136472edd6f60d69ccb9029c0f8043d7bbeb13"
+  },
+  {
+   "file": "Textures/r2/player_overload.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 713,
+   "sha256": "611bcae19002d985aeef49f28cbd9229416d7f2e4e3d0f9c7ef8e2f6441c1e9e"
+  },
+  {
+   "file": "Textures/r2/enemy_drone.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 370,
+   "sha256": "46b3507e333d5281934bebef300cd0f75776636fa38f9791dbd33c2ccd769da6"
+  },
+  {
+   "file": "Textures/r2/enemy_sentinel.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 251,
+   "sha256": "546d266c0a838b082e0d1ba937cba47481eb509ef63216d0f06d1d19d5a2c516"
+  },
+  {
+   "file": "Textures/r2/enemy_glitch.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 595,
+   "sha256": "57fd72e5c05d41c668b371aafc4aa7aa97d3c2726311ad1f79fbad1666b70969"
+  },
+  {
+   "file": "Textures/r2/enemy_heavy.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 500,
+   "sha256": "d143d8c81281484bd72ac83114cedc0f2d3cc06112093d58b1dcdd3b228de2bf"
+  },
+  {
+   "file": "Textures/r2/obj_firewall.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 345,
+   "sha256": "e60213d79e18d65e20cd53a34c04b6e7220b37adeb4789ec272053b05ddaa5b1"
+  },
+  {
+   "file": "Textures/r2/obj_relay.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 363,
+   "sha256": "7f288b9030e1f8a86050b238f72ebd25e10566bf5819e3d18e7b8d6cabb5d57a"
+  },
+  {
+   "file": "Textures/r2/obj_wreck.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 265,
+   "sha256": "153b40b2781c3d40b7254ebf5ee7c162c2103df046dff632087526f21c533953"
+  },
+  {
+   "file": "Textures/r2/obj_deepwreck.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 296,
+   "sha256": "781b119d83dd68a3abe4bc1d79934acf0895eb20c1db37512a30f40e9d14350d"
+  },
+  {
+   "file": "Textures/r2/obj_cell.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 425,
+   "sha256": "778cbf275f7a70b78d0daf5d8bd4d501e6e66b5893a5101adfd82e58459b555f"
+  },
+  {
+   "file": "Textures/r2/obj_core.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 397,
+   "sha256": "99d6985b7b8ddfc6405734b3be8e0a23be1584e5dc179c35fb1f027b07732600"
+  },
+  {
+   "file": "Textures/r2/obj_decoy.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 425,
+   "sha256": "4049a50577aa60955059a4811996cf22be546c31d8557ccf79b503780ee8dc4f"
+  },
+  {
+   "file": "Textures/r2/obj_laser.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 213,
+   "sha256": "effea2bf90dc40349e75081bb747dcc3372f6162609f6c18c6ebb7d05013d68e"
+  },
+  {
+   "file": "Textures/r2/obj_cover.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 263,
+   "sha256": "4051472d00598822c49f5ee4895d5dd06aec06d769cf5a94391c922bff9330ad"
+  },
+  {
+   "file": "Textures/r2/obj_safezone.png",
+   "w": 64,
+   "h": 64,
+   "bytes": 551,
+   "sha256": "3629b7b02e54b3e22aa81496ff0cef4a75555dd046dc159e8c64f547fcc9287c"
+  },
+  {
+   "file": "Textures/r2/icon_chain.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 273,
+   "sha256": "0bf51271a0910b471d12ff496cac36f36f71f3cd50367733821106a4ad200cfd"
+  },
+  {
+   "file": "Textures/r2/icon_pulse.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 372,
+   "sha256": "a74c5583fc4abbac592b127fef4ae7ed00e727224ea0513b1e85403be17cdaa3"
+  },
+  {
+   "file": "Textures/r2/icon_collapse.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 344,
+   "sha256": "91a1adca0467847324da81df7e10a70d71db491264b7070ebc0212321e579fba"
+  },
+  {
+   "file": "Textures/r2/icon_jammer.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 318,
+   "sha256": "f44505c0e48fc8a7a401fbafc3d82fdde936b8fc7cee1f993021d038d0c11b5d"
+  },
+  {
+   "file": "Textures/r2/icon_decoy.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 392,
+   "sha256": "bd5c87d4f8a52abc3dc9db34b0d748f0b8e1f1cd141f0b9fa72e5c939ada6534"
+  },
+  {
+   "file": "Textures/r2/icon_cloak.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 266,
+   "sha256": "e4e875cedf0da19f9645be228703a2ea11a41874e7dc38d40540b5f454f66974"
+  },
+  {
+   "file": "Textures/r2/icon_recon.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 303,
+   "sha256": "10b7ad4fb3e829dc38209965003b1ed2789cf85379a395ea739ca5330a81ae53"
+  },
+  {
+   "file": "Textures/r2/icon_restart.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 319,
+   "sha256": "fbcf950e4b1a7ceff4fd7f0531d4a339c0f0d085a4409bd89470ec81c04cb1a9"
+  },
+  {
+   "file": "Textures/r2/icon_capacitor.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 190,
+   "sha256": "180f25c15a4f8ec51c960955d1a331ece108c23945535cc6c8deb27bc0394652"
+  },
+  {
+   "file": "Textures/r2/icon_amplifier.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 247,
+   "sha256": "d5a3ffe773555efde4747ca4d1372f8c357baf86b7b941c4659cf607c0a89f84"
+  },
+  {
+   "file": "Textures/r2/icon_dismantle.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 301,
+   "sha256": "a12e93a4d88cc026743f44883dd89d15483a18fdc9498e536527c16af1d7b3ee"
+  },
+  {
+   "file": "Textures/r2/icon_alert.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 187,
+   "sha256": "3705f4a1e4113025b3080a81d7dd7414816178cd395827c4e94264c925e3b9db"
+  },
+  {
+   "file": "Textures/r2/icon_unbanked.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 285,
+   "sha256": "dd7a5a185e1a8f0b7fc93ab78a044c3d089ea8476a53225cd89c928527618587"
+  },
+  {
+   "file": "Textures/r2/icon_energy.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 368,
+   "sha256": "7903a559851ce720ec4a0ac01b0636777dbbe159482de3ad5cad8d2f19ff68d0"
+  },
+  {
+   "file": "Textures/r2/icon_hunt.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 306,
+   "sha256": "b8ac32ba42f7cd7c1bca3205d92a481f1755961230943dcd373770c2f4fea422"
+  },
+  {
+   "file": "Textures/r2/icon_heavy.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 434,
+   "sha256": "67dce7e531520c55aaeced0206bef04a783939a43bc2791df8ba9373b26ec1ff"
+  },
+  {
+   "file": "Textures/r2/icon_firewall.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 391,
+   "sha256": "9a8aa26f3f972a4419fd618b5b7ed15224eb43cdd8194083da427ef4a5bf1417"
+  },
+  {
+   "file": "Textures/r2/icon_relay.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 368,
+   "sha256": "09ced0eb4f8ba1439adfae23ed5c66267ccccf52b3b9e281faf0c6526232c16e"
+  },
+  {
+   "file": "Textures/r2/icon_deep.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 250,
+   "sha256": "a9bca42caa700a4071fa9d49c205dad272714a8d7778d103fed838faf019b076"
+  },
+  {
+   "file": "Textures/r2/icon_heat0.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 197,
+   "sha256": "16d548903cc197fc08e3325dc9a5d9b18b02dbf7765c03f84b6dfe2c59ae73e6"
+  },
+  {
+   "file": "Textures/r2/icon_heat1.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 186,
+   "sha256": "f1c4de25cabea827b3c98c996e915b1026553050e82b61bb45122f307a103151"
+  },
+  {
+   "file": "Textures/r2/icon_heat2.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 248,
+   "sha256": "48b04618e75c34b56eda98b6a52eadb89655aae5cd5d14593915e15dfeaa6645"
+  },
+  {
+   "file": "Textures/r2/icon_heat3.png",
+   "w": 48,
+   "h": 48,
+   "bytes": 301,
+   "sha256": "215d3ad0f95fd73e010720e15776c6cd88a62b0157ece811e5052dfd799335a0"
+  },
+  {
+   "file": "Textures/r2/bg_tile.png",
+   "w": 128,
+   "h": 128,
+   "bytes": 631,
+   "sha256": "bba1b4ff752df5db345c0bb3746cbfacaba0840fea8f40f02f39a5c0e6d73a94"
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "generator": "qa/generators/gen_audio.py",
+ "license": "original synthesized audio, generated for this project only",
+ "asset_status": "RELEASE_AUDIO_ACCEPTED",
+ "samplerate": 44100,
+ "count": 29,
+ "files": [
+  {
+   "file": "Sounds/r2/ui_click.wav",
+   "seconds": 0.08,
+   "peak": 0.72,
+   "bytes": 7098,
+   "sha256": "656adc31f840dfcc54fbc81b2047a058d4e819ae5d26815b9e9d5e46d3a6fbc6",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/overload_start.wav",
+   "seconds": 0.5,
+   "peak": 0.72,
+   "bytes": 44144,
+   "sha256": "494ab39a7a5362cbab09fcbae86655b3a0fd8644ac3841b358f78a2d8ed52be9",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/chain_fire.wav",
+   "seconds": 0.09,
+   "peak": 0.706,
+   "bytes": 7982,
+   "sha256": "7cb706778630817ddd341bcc26d4fd13de28159d8b5a839faf3f935a2e468d76",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/pulse_fire.wav",
+   "seconds": 0.35,
+   "peak": 0.72,
+   "bytes": 30912,
+   "sha256": "e30f34425c3176805171093f8be1b89a6c861ba0e0558e0c8ac383dd70d879fa",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/collapse_fire.wav",
+   "seconds": 0.45,
+   "peak": 0.72,
+   "bytes": 39734,
+   "sha256": "ed528d28a0dd16b3552aaa73a5396d047ffb05125e08f8dd65f643360f171afc",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/countdown_tick.wav",
+   "seconds": 0.07,
+   "peak": 0.72,
+   "bytes": 6218,
+   "sha256": "b38825376a97c234b4e1fef597b123fa11f6acffffaf7dc289d05ed93cbce64f",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/overload_end.wav",
+   "seconds": 0.9,
+   "peak": 0.72,
+   "bytes": 79424,
+   "sha256": "cbca0bfea6126578295711e98902f5184ac17613c6cd7fb029552f35526d2116",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/enemy_alert.wav",
+   "seconds": 0.21,
+   "peak": 0.72,
+   "bytes": 18566,
+   "sha256": "18f2cbe45b9bb8706a2cda73f044aa795fd4e52f59245ebbac45b0586cf85733",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/player_escaped.wav",
+   "seconds": 0.18,
+   "peak": 0.72,
+   "bytes": 15920,
+   "sha256": "dc158805a6d18eb078b69fdf4abef81b0bdc8b4aa89c5992595a8dabe719d3f6",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/cell_pickup.wav",
+   "seconds": 0.12,
+   "peak": 0.72,
+   "bytes": 10628,
+   "sha256": "03de3d6d7a631a81711481fa40589e4d50bb6ecf6f44d92b46f15c2bf10ae6a5",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/core_pickup.wav",
+   "seconds": 0.22,
+   "peak": 0.72,
+   "bytes": 19448,
+   "sha256": "de5dde29d76be5e32f440a975da79073905e94cbdc84b87f29174dea40e7dd91",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/dismantle_done.wav",
+   "seconds": 0.24,
+   "peak": 0.72,
+   "bytes": 21212,
+   "sha256": "9b3f1bdd508f66cc39135e235401a00fd13362cad8e0e7a16df4484ac9bc5dff",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/heat_up.wav",
+   "seconds": 0.22,
+   "peak": 0.72,
+   "bytes": 19448,
+   "sha256": "acd1f1ed8893698b9489fbfcc54019347fdec7f54b6142b57275dee7aa19feaf",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/energy_ready.wav",
+   "seconds": 0.28,
+   "peak": 0.72,
+   "bytes": 24740,
+   "sha256": "276f0bbc471e2fd40fac3108b0eaf46af18f0a189d7cb8f35061a39fc6016d89",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/restart_channel.wav",
+   "seconds": 0.4,
+   "peak": 0.72,
+   "bytes": 35324,
+   "sha256": "d5c391e4b2a486646fbe1c47a86f30a60c3cab8d45e0c37671ee92cb73f3380a",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/overload_restart.wav",
+   "seconds": 0.5,
+   "peak": 0.72,
+   "bytes": 44142,
+   "sha256": "d9f88566c17e4a8365118f71d32accce6b3c106a7ab2337ad4e46c670d156ea3",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/mark_set.wav",
+   "seconds": 0.16,
+   "peak": 0.72,
+   "bytes": 14156,
+   "sha256": "0fa7ef44508e99b6a656cbfc1643a75a7601f81f86719cc0f85001108e143c81",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/mark_trigger.wav",
+   "seconds": 0.52,
+   "peak": 0.72,
+   "bytes": 45908,
+   "sha256": "c20bcb695913fa8aa7dce89943b817c1f125afa32793f2f8032e33d60a658edf",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/craft_done.wav",
+   "seconds": 0.23,
+   "peak": 0.72,
+   "bytes": 20330,
+   "sha256": "00b2635a0d00fe9eab3ced5fca16ea883707fb98ce105c986f7888c0b9b5135d",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/player_hurt.wav",
+   "seconds": 0.14,
+   "peak": 0.719,
+   "bytes": 12392,
+   "sha256": "6e42ebf86e733c2ed6fd4d6578a1b7e890f60e720b77924908cde56c8db4295e",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/player_dead.wav",
+   "seconds": 1.4,
+   "peak": 0.72,
+   "bytes": 123524,
+   "sha256": "d2614aec2b7a12f6d86694ec4bb70787b50cb4acc805324cb57cbc51f09ce4f7",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/enemy_kill.wav",
+   "seconds": 0.18,
+   "peak": 0.72,
+   "bytes": 15920,
+   "sha256": "753acfd0d357181dfaadd9f082d891d88803a2eeae2cecdb37800d1c729d4561",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/heavy_kill.wav",
+   "seconds": 1.12,
+   "peak": 0.72,
+   "bytes": 98828,
+   "sha256": "f7f66d74758d747a1a7436fe479cb49804416714395024f2c8acf1a5180dfc27",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/combo_up.wav",
+   "seconds": 0.22,
+   "peak": 0.72,
+   "bytes": 19448,
+   "sha256": "73adfd78f5a7f391a29d5f50d2163591289a45606323078ce6e3b96e69d8d5e2",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/hunt_target.wav",
+   "seconds": 0.315,
+   "peak": 0.72,
+   "bytes": 27826,
+   "sha256": "5f0cede15a7dacdc4f0c928a55b23e9170881c8bb47b877d611e64634b299455",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/hunt_chain.wav",
+   "seconds": 0.32,
+   "peak": 0.72,
+   "bytes": 28268,
+   "sha256": "497a1b616de54a42d26e6c59cb6bdd35cd931c6b662812614d5372b09f44eee5",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/new_record.wav",
+   "seconds": 0.52,
+   "peak": 0.72,
+   "bytes": 45908,
+   "sha256": "a0105c4e48668926f8e940390f0ff3e0fc2a9922dfde78946dfe536c13d8715a",
+   "loop": false
+  },
+  {
+   "file": "Sounds/r2/ambient_overload.ogg",
+   "seconds": 11.97,
+   "peak": 0.72,
+   "bytes": 93149,
+   "sha256": "09d856833226f176cd0b795b23f107f728dc378ec9835354267c4da868e6dc6e",
+   "loop": true,
+   "codec": "ogg_vorbis"
+  },
+  {
+   "file": "Sounds/r2/ambient_depleted.ogg",
+   "seconds": 15.97,
+   "peak": 0.713,
+   "bytes": 123083,
+   "sha256": "4b3a3ecec6a7b78e2c9602e1f2b95940712abe8681544b0a24ddf46e5cd8e0ff",
+   "loop": true,
+   "codec": "ogg_vorbis"
+  }
+ ]
+}
